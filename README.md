@@ -1,16 +1,32 @@
-## Hi there 👋
+# fadak
 
-<!--
-**z-qasemi/z-qasemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## zeinab & samaneh
 
-Here are some ideas to get you started:
+ ```python 
+ a=0
+print(a)
+```
+this is **bold**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+this is *italic*
+
+this is ***bold & italic***
+
+- python
+
+- Deep learning
+
+  - rnn
+ 
+  - cnn
+ 
+- st
+  
+> this is test
+
+>> this is another
+
+![gol](https://vipshop.flowers/mag/wp-content/uploads/2019/09/Camomille.jpg)
+
+![sahel](https://turarak.ir/wp-content/uploads/2016/11/Gisoom-beach.jpg)
+
